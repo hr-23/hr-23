@@ -1,7 +1,5 @@
-[![MasterHead](https://dribbble.com/shots/6169542-Developer-Animation)(https://www.linkedin.com/in/hr23/)
 <h1 align="center">Hi 👋, I'm Harshaa Reddy G</h1>
 <h3 align="center">A passionate iOS developer and Competitive Programmer From India</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://dribbble.com/shots/6169542-Developer-Animation">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hr-23&label=Profile%20views&color=0e75b6&style=flat" alt="hr-23" /> </p>
 
